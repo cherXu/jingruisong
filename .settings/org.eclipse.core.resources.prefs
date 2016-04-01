@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebContent/index.jsp=UTF-8
+encoding//src/service/ReceiveXmlProcess.java=UTF-8
+encoding//src/service/WechatProcess.java=UTF-8
+encoding//src/servlet/ServerSentEventServlet.java=UTF-8
+encoding//src/tulin/TulingApiProcess.java=UTF-8
+encoding//src/util/FormatXmlProcess.java=UTF-8
